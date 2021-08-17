@@ -33,3 +33,18 @@ hr {
 .text:hover {
     color: rgb(5, 126, 100);
   }
+
+.navbar {
+    background-color: powderblue;
+    position: fixed;
+    left: 0;
+    top: 0;
+    font-size: 30px;
+    visibility: visible;
+    width: 100%;
+    padding-left: 30%;
+}
+
+.empty {
+    height: 30px;
+}
